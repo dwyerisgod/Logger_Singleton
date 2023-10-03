@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.363,\\Mac\Home\Documents\College. Пары\3 Курс. 2 семестр\База данных\LB2\Unit1.dfm=\\Mac\Home\Documents\College. Пары\3 Курс. 2 семестр\База данных\LB2\u_Main.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.227,\\Mac\Home\Documents\Embarcadero\Studio\Projects\Unit2.h=\\Mac\Home\Documents\College. Пары\3 Курс. 2 семестр\База данных\LB2\Unit2.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.248,\\Mac\Home\Documents\College. Пары\3 Курс. 2 семестр\База данных\LB2\Unit2.cpp=\\Mac\Home\Documents\College. Пары\3 Курс. 2 семестр\База данных\LB2\u_DM.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.431,\\Mac\Home\Documents\Embarcadero\Studio\Projects\Project1PCH1.h=\\Mac\Home\Documents\College. Пары\3 Курс. 2 семестр\База данных\LB2\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.584,=\\Mac\Home\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.338,\\Mac\Home\Documents\Embarcadero\Studio\Projects\Project1.cbproj=\\Mac\Home\Documents\College. Пары\3 Курс. 2 семестр\База данных\LB2\Project1.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.227,\\Mac\Home\Documents\Embarcadero\Studio\Projects\Unit2.dfm=\\Mac\Home\Documents\College. Пары\3 Курс. 2 семестр\База данных\LB2\Unit2.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.227,\\Mac\Home\Documents\Embarcadero\Studio\Projects\Unit2.cpp=\\Mac\Home\Documents\College. Пары\3 Курс. 2 семестр\База данных\LB2\Unit2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.455,=\\Mac\Home\Documents\Embarcadero\Studio\Projects\Unit2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.138,\\Mac\Home\Documents\College. Пары\3 Курс. 2 семестр\База данных\LB2\Project1PCH1.h=\\Mac\Home\Documents\College. Пары\3 Курс. 2 семестр\База данных\LB2\prDbPCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.138,\\Mac\Home\Documents\College. Пары\3 Курс. 2 семестр\База данных\LB2\Project1.cbproj=\\Mac\Home\Documents\College. Пары\3 Курс. 2 семестр\База данных\LB2\prDb.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.948,=\\Mac\Home\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.422,=\\Mac\Home\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.451,\\Mac\Home\Documents\Embarcadero\Studio\Projects\Unit1.cpp=\\Mac\Home\Documents\College. Пары\3 Курс. 2 семестр\База данных\LB2\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.363,\\Mac\Home\Documents\College. Пары\3 Курс. 2 семестр\База данных\LB2\Unit1.h=\\Mac\Home\Documents\College. Пары\3 Курс. 2 семестр\База данных\LB2\u_Main.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.248,\\Mac\Home\Documents\College. Пары\3 Курс. 2 семестр\База данных\LB2\Unit2.h=\\Mac\Home\Documents\College. Пары\3 Курс. 2 семестр\База данных\LB2\u_DM.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.932,=\\Mac\Home\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.451,\\Mac\Home\Documents\Embarcadero\Studio\Projects\Unit1.dfm=\\Mac\Home\Documents\College. Пары\3 Курс. 2 семестр\База данных\LB2\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.248,\\Mac\Home\Documents\College. Пары\3 Курс. 2 семестр\База данных\LB2\Unit2.dfm=\\Mac\Home\Documents\College. Пары\3 Курс. 2 семестр\База данных\LB2\u_DM.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.451,\\Mac\Home\Documents\Embarcadero\Studio\Projects\Unit1.h=\\Mac\Home\Documents\College. Пары\3 Курс. 2 семестр\База данных\LB2\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.363,\\Mac\Home\Documents\College. Пары\3 Курс. 2 семестр\База данных\LB2\Unit1.cpp=\\Mac\Home\Documents\College. Пары\3 Курс. 2 семестр\База данных\LB2\u_Main.cpp</Transaction>
+    <Transaction>2023.10.03 16:58:29.364,=C:\Users\kirillturov\Documents\WindowsFiles\DATABASES\LB3\LB3C++\Unit3.cpp</Transaction>
+    <Transaction>2023.10.03 16:58:42.181,C:\Users\kirillturov\Documents\WindowsFiles\DATABASES\LB3\LB3C++\Logger.cpp=C:\Users\kirillturov\Documents\WindowsFiles\DATABASES\LB3\LB3C++\Unit3.cpp</Transaction>
+    <Transaction>2023.10.03 16:58:42.181,C:\Users\kirillturov\Documents\WindowsFiles\DATABASES\LB3\LB3C++\Logger.h=C:\Users\kirillturov\Documents\WindowsFiles\DATABASES\LB3\LB3C++\Unit3.h</Transaction>
+    <Transaction>2023.10.03 17:06:23.371,C:\Users\kirillturov\Documents\WindowsFiles\DATABASES\LB3\LB3C++\Logger.cpp=</Transaction>
+    <Transaction>2023.10.03 17:10:49.760,=C:\Users\kirillturov\Documents\WindowsFiles\DATABASES\LB3\LB3C++\Unit3.cpp</Transaction>
+    <Transaction>2023.10.03 17:11:54.445,C:\Users\kirillturov\Documents\WindowsFiles\DATABASES\LB3\LB3C++\LoggerSingleton.cpp=C:\Users\kirillturov\Documents\WindowsFiles\DATABASES\LB3\LB3C++\Unit3.cpp</Transaction>
+    <Transaction>2023.10.03 17:11:54.445,C:\Users\kirillturov\Documents\WindowsFiles\DATABASES\LB3\LB3C++\LoggerSingleton.h=C:\Users\kirillturov\Documents\WindowsFiles\DATABASES\LB3\LB3C++\Unit3.h</Transaction>
+  </Transactions>
+</BorlandProject>

@@ -1,0 +1,35 @@
+//---------------------------------------------------------------------------
+
+#ifndef LoggerSingletonH
+#define LoggerSingletonH
+
+#include <iostream>
+#include <fstream>
+#include <string>
+
+class LoggerSingleton {
+public:
+    static LoggerSingleton& Instance() {
+        static LoggerSingleton instance; // Экземпляр создается только один раз
+        return instance;
+    }
+
+    void Log(const std::string& message) {
+        std::ofstream logFile("log.txt", std::ios::app);
+        if (logFile.is_open()) {
+            logFile << message << std::endl;
+            logFile.close();
+        }
+    }
+
+private:
+    LoggerSingleton() {} // Приватный конструктор
+    ~LoggerSingleton() {} // Приватный деструктор
+    LoggerSingleton(const LoggerSingleton&) = delete; // Запрещаем копирование
+    LoggerSingleton& operator=(const LoggerSingleton&) = delete; // Запрещаем присваивание
+};
+
+#endif
+
+//---------------------------------------------------------------------------
+#endif

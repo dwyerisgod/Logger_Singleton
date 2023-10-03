@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.451,\\Mac\Home\Documents\Embarcadero\Studio\Projects\Unit1.dfm=\\Mac\Home\Documents\College. Пары\3 Курс. 2 семестр\База данных\LB2\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.338,\\Mac\Home\Documents\Embarcadero\Studio\Projects\Project1.cbproj=\\Mac\Home\Documents\College. Пары\3 Курс. 2 семестр\База данных\LB2\Project1.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.227,\\Mac\Home\Documents\Embarcadero\Studio\Projects\Unit2.dfm=\\Mac\Home\Documents\College. Пары\3 Курс. 2 семестр\База данных\LB2\Unit2.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.431,\\Mac\Home\Documents\Embarcadero\Studio\Projects\Project1PCH1.h=\\Mac\Home\Documents\College. Пары\3 Курс. 2 семестр\База данных\LB2\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.932,=\\Mac\Home\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.584,=\\Mac\Home\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.227,\\Mac\Home\Documents\Embarcadero\Studio\Projects\Unit2.cpp=\\Mac\Home\Documents\College. Пары\3 Курс. 2 семестр\База данных\LB2\Unit2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.948,=\\Mac\Home\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.422,=\\Mac\Home\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.227,\\Mac\Home\Documents\Embarcadero\Studio\Projects\Unit2.h=\\Mac\Home\Documents\College. Пары\3 Курс. 2 семестр\База данных\LB2\Unit2.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.455,=\\Mac\Home\Documents\Embarcadero\Studio\Projects\Unit2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.451,\\Mac\Home\Documents\Embarcadero\Studio\Projects\Unit1.h=\\Mac\Home\Documents\College. Пары\3 Курс. 2 семестр\База данных\LB2\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.451,\\Mac\Home\Documents\Embarcadero\Studio\Projects\Unit1.cpp=\\Mac\Home\Documents\College. Пары\3 Курс. 2 семестр\База данных\LB2\Unit1.cpp</Transaction>
+  </Transactions>
+</BorlandProject>

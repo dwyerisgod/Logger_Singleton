@@ -1,0 +1,31 @@
+//---------------------------------------------------------------------------
+
+#pragma hdrstop
+
+#include "Logger.h" // ¬ключ≥ть заголовочний файл Logger.h
+
+// –ешта коду класу Logger залишаЇтьс€ без зм≥н
+Logger* Logger::instance = nullptr;
+
+Logger::Logger() {
+    logFile.open("log.txt", std::ios::app);
+}
+
+Logger* Logger::getInstance() {
+    if (!instance) {
+        instance = new Logger();
+    }
+    return instance;
+}
+
+void Logger::log(const std::string& message) {
+    logFile << message << std::endl;
+}
+
+Logger::~Logger() {
+    logFile.close();
+}
+
+
+//---------------------------------------------------------------------------
+#pragma package(smart_init)
